@@ -1,0 +1,46 @@
+{
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "autoimport.filesToScan": "**/*.js",
+  "autoimport.semicolon": false,
+  "prettier.eslintIntegration": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions.comments": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "javascript.validate.enable": false,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]"],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  // "editor.wordWrapColumn": 120,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "window.zoomLevel": 1,
+  "[terraform]": {
+    "editor.defaultFormatter": "hashicorp.terraform"
+  },
+  "eslint.codeActionsOnSave.rules": null,
+  "prettier.printWidth": 120,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "files.associations": {
+    "*.graphql": "graphql"
+  },
+  "code-runner.clearPreviousOutput": true
+}
