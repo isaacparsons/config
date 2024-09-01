@@ -1,0 +1,4 @@
+- docker
+- obsidian
+- visual studio code
+- pgAdmin 4
