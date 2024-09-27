@@ -17,3 +17,4 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension zxh404.vscode-proto3zxh404.vscode-proto3
 code --install-extension xabikos.reactsnippets
 code --install-extension redis.redis-for-vscode
+code --install-extension yoavbls.pretty-ts-errors
