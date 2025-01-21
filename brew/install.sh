@@ -10,3 +10,4 @@ brew install terraform
 brew install youtube-dl
 brew install --cask raycast
 brew install vim
+brew install lazydocker
